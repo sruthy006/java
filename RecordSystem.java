@@ -14,7 +14,7 @@ class Vehicle {
     }
 
     void displayBasicInfo() {
-        System.out.println("Brand: " + brand);
+        System.out.println("Brand: "  + brand);
         System.out.println("Type: " + type);
         System.out.println("Year of Manufacture: " + yearOfMake);
         System.out.printf("Purchase Price: INR %.2f\n", purchasePrice);
@@ -89,3 +89,4 @@ public class RecordSystem {
         commuterBike.showCompleteDetails();
     }
 }
+
