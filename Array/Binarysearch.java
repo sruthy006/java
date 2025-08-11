@@ -4,6 +4,7 @@ class Binarysearch {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int n, k, l = 0, u, mid = 0, temp, i, j, flag = 0;
+        
 
         System.out.print("Enter the number of elements: ");
         n = sc.nextInt();
@@ -54,3 +55,4 @@ class Binarysearch {
             System.out.println("Element found at index " + mid);
     }
 }
+
