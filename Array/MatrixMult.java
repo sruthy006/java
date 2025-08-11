@@ -8,7 +8,7 @@ class MatrixMult
 	  System.out.println("Enter the no. of rows and columns of the 1st matrix:");
 	  int r1=sc.nextInt();
 	  int c1=sc.nextInt();
-	  System.out.println("Enter the no. of rows and columns of the 2nd matrix:");
+	  System.out.println("Enter the no. of rows and columns of the 2nd  matrix:");
 	  int r2=sc.nextInt();
 	  int c2=sc.nextInt();
 	  int ar1[][]=new int[r1][c1];
@@ -76,4 +76,5 @@ class MatrixMult
 		}
 	  }
 	}
+
 }
