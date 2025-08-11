@@ -5,7 +5,7 @@ public static void main(String args[])
 {
     int i,sum=0;
     Scanner sc=new Scanner(System.in);
-    System.out.println("Enter the no. of elements of the array");
+    System.out.println("Enter the no. of  elements of the array");
     int n=sc.nextInt();
     int ar[]=new int[n];
     System.out.println("Enter the elements of the array:");
@@ -20,4 +20,5 @@ public static void main(String args[])
    } 
    System.out.println("The sum of even no. is:"+sum);
 }
+
 }
