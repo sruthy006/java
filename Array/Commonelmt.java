@@ -9,7 +9,7 @@ public static void main(String args[])
    int n=sc.nextInt();
    int ar1[]=new int[n];
    int ar2[]=new int[n];
-   System.out.println("Enter the elements of the 1st array:");
+   System.out.println("Enter The elements of the 1st array:");
    for(i=0;i<n;i++)
       {
         ar1[i]=sc.nextInt();
@@ -34,4 +34,5 @@ public static void main(String args[])
       }
    
    }
+
 }
