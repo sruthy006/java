@@ -28,4 +28,5 @@ sum += matrix[i][i];}
 
 System.out.println("Sum of diagonal elements: " + sum);
  }
+
 }
